@@ -19,7 +19,7 @@ piped into it
 ## Example
 
 ```js
-var skip = require('skip');
+var skip = require('skip-stream');
 var csv  = require('csv-parse');
 var through = require('through');
 
