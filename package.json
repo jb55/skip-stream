@@ -2,7 +2,7 @@
   "name": "skip-stream",
   "description": "Skip n elements of a stream",
   "keywords": ["skip", "stream"],
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/jb55/skip-stream.git"
@@ -12,8 +12,7 @@
     "test": "mocha --reporter spec"
   },
   "dependencies": {
-    "through": "^2.3.4",
-    "debug": "^0.8.0"
+    "through": "^2.3.4"
   },
   "devDependencies": {
     "mocha": "*",
