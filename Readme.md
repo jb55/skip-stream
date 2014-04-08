@@ -3,6 +3,8 @@
 
   Skip n elements in a stream
 
+  [![Build Status](https://travis-ci.org/jb55/skip-stream.png)](https://travis-ci.org/jb55/skip-stream)
+
 ## Installation
 
   Install with npm
